@@ -1,6 +1,6 @@
 <!-- CUBE Lab README -->
 <p align="center">
-  <img src="branding/cube_lab_logo_primary.svg" alt="CUBE Lab" width="520">
+  <img src="cube_lab_logo_primary.png" alt="CUBE Lab" width="520">
 </p>
 
 # CUBE Lab
