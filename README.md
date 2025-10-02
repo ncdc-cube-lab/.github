@@ -1,6 +1,6 @@
 <!-- CUBE Lab README -->
 <p align="center">
-  <img src="cube_lab_logo_primary.png" alt="CUBE Lab" width="520">
+  <img src="branding/cube_lab_logo_primary.png" alt="CUBE Lab" width="520">
 </p>
 
 # CUBE Lab
@@ -19,7 +19,7 @@
 ---
 
 ## Quick Links
-- [Branding (로고/배너)](branding/)
+- [Branding (로고/배너)](branding/cube_lab_social_banner.png)
 - [Code of Conduct](CODE_OF_CONDUCT.md) ・ [Contributing](CONTRIBUTING.md) ・ [Security](SECURITY.md)  
 - [CITATION.cff](CITATION.cff) ・ [LICENSE](LICENSE)
 
