@@ -14,8 +14,7 @@
 - 유전체/오믹스 데이터 통합 및 예측모델링
 
 **연락처**
-- (추가 예정)  
-- 웹사이트: GitHub Pages 활성화 후 `Settings → Pages`의 URL을 여기에 반영하세요.
+- 웹사이트: https://ncdc-cube-lab.github.io/cube-website/
 
 ---
 
@@ -38,8 +37,7 @@
 - Multi‑omics analytics & predictive modeling
 
 **Contact**
-- (TBD)  
-- Website: Enable GitHub Pages and paste the URL here.
+- Website: https://ncdc-cube-lab.github.io/cube-website/
 
 ---
 
